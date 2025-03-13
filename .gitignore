@@ -1,0 +1,10 @@
+android/build
+*.iml
+.idea
+.project
+android/.gradle
+android/.settings
+android/.idea/workspace.xml
+android/.idea/copyright/profiles_settings.xml
+node_modules
+*.js.map

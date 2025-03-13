@@ -1,0 +1,46 @@
+{
+  "name": "@yz1311/react-native-ijkplayer",
+  "version": "0.0.1-beta.7",
+  "description": "React Native IJKPlayer - A video player component based on ijkplayer for React Native",
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/react-native-ijkplayer.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react-native",
+    "ijkplayer",
+    "video",
+    "player",
+    "android"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/react-native-ijkplayer/issues"
+  },
+  "homepage": "https://github.com/yourusername/react-native-ijkplayer#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@types/react": "^17.0.0",
+    "@types/react-native": "^0.64.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^26.6.3",
+    "typescript": "^4.1.3"
+  }
+}
